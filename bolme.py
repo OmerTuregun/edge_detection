@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import os
-
+# Çalışan Kod
 # Dosya yolunu belirle
 image_path = 'C:/Users/omer.turegun/edge_detection/deneme.jpg'
 
